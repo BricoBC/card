@@ -8,8 +8,8 @@
     --white: #FFFFFF;
     --black: #000000;
     --fondo: #518d65;
-    --mobile-txt-xlg: 14px;
-    --mobile-txt-lg: 12px;
+    --mobile-txt-xlg: 8px;
+    --mobile-txt-lg: 6px;
     --lap-txt-lg: 16px;
     --lap-txt-xlg: 22px;
     --lg-txt: 26px;
@@ -63,7 +63,7 @@ h2{
     cursor: pointer;
     z-index: 1;
     font-weight: 300;
-    font-size: 17px;
+    font-size: var(--lg-txt);
     text-transform: uppercase;
     color: var(--color);
    }
@@ -118,13 +118,18 @@ h2{
 }
 @media (max-width: 510px) {
     .card{
-        width: 70%;
+        width: 80%;
         align-items: center;
         flex-direction: column ;
         padding: 4px;
     }
+    .btn{
+        font-size: var(--mobile-txt-lg);
+        margin: 2px;
+        padding: 10px;
+    }
     img{
-        width: 60%;
+        width: 75%;
         height: 35vh;
         margin: 2px;
     }
