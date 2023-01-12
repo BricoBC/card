@@ -1,3 +1,4 @@
+import './style.css'
 const fondo = document.querySelector('.fondo');
 
 const divCard = document.createElement('div');
