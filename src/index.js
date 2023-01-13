@@ -5,8 +5,8 @@ const divCard = document.createElement('div');
 divCard.classList.add('card');
 
 const button = document.createElement('button');
-button.innerText='Linkedin'
-button.setAttribute('href', 'https://www.linkedin.com/in/bruno-nicol%C3%A1s-barajas-correa-a64a32256/');
+button.innerText='Github'
+button.setAttribute('href', 'https://github.com/BricoBC/card/');
 button.classList.add('btn');
 
 const img = document.createElement('img');
