@@ -14,4 +14,4 @@ Este proyecto por muy sencillo que se puede ver se utilizó cierta tecnología p
 - Webpack permite una gestión más eficiente de todos los archivos estáticos en un proyecto. Esto nos permite modificar el código y prepararlo para la implementación en producción.
 [![Webpack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm20jbQw0zoVfUqtiExWi-jmCiOGoacf95MhVaEOhixAxiPfPxAz2GRYE6Psv1m6rv-ow&usqp=CAU "Webpack")](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm20jbQw0zoVfUqtiExWi-jmCiOGoacf95MhVaEOhixAxiPfPxAz2GRYE6Psv1m6rv-ow&usqp=CAU "Webpack")
 
-**Realizado por BricoBC**
+**Proyecto realizado por BricoBC**
