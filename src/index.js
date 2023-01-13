@@ -31,7 +31,7 @@ section.append(h1, hDosOcupation, h2Edad, hDosOcupation);
 divCard.append(img, section);
 fondo.append(divCard, button);
 
-button.addEventListener('click', changePageLinkedin);
+button.addEventListener('click', changePageGithub);
 
 function changePageGithub(){
     location.href="https://github.com/BricoBC/card/"
