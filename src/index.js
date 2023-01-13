@@ -6,7 +6,6 @@ divCard.classList.add('card');
 
 const button = document.createElement('button');
 button.innerText='Github'
-button.setAttribute('href', 'https://github.com/BricoBC/card/');
 button.classList.add('btn');
 
 const img = document.createElement('img');
@@ -35,5 +34,5 @@ fondo.append(divCard, button);
 button.addEventListener('click', changePageLinkedin);
 
 function changePageLinkedin(){
-    location.href="https://www.linkedin.com/in/bruno-nicol%C3%A1s-barajas-correa-a64a32256/"
+    location.href="https://github.com/BricoBC/card/"
 }
