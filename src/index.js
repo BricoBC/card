@@ -33,6 +33,6 @@ fondo.append(divCard, button);
 
 button.addEventListener('click', changePageLinkedin);
 
-function changePageLinkedin(){
+function changePageGithub(){
     location.href="https://github.com/BricoBC/card/"
 }
