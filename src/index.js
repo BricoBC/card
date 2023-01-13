@@ -5,6 +5,7 @@ const divCard = document.createElement('div');
 divCard.classList.add('card');
 
 const button = document.createElement('button');
+button.setAttribute('href', 'https://github.com/BricoBC/card/');
 button.innerText='Github'
 button.classList.add('btn');
 
